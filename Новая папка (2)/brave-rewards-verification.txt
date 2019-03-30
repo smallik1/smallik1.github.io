@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: smallik1.github.io
+Token: 1456e91fb394ef738e21a1e5a32800d8b1d7a293c13d5983d3e451c5499c0661
